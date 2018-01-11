@@ -4,7 +4,9 @@
 
 [Surge 官网](https://nssurge.com/)
 
-[Surge 公告板](https://trello.com/b/qy4sDvxg/surge)
+~~[Surge 旧公告板](https://trello.com/b/qy4sDvxg/surge)~~
+
+[Surge 新公告板](https://nssurge.zendesk.com/)
 
 [surge 新手指南](https://medium.com/@scomper/surge-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6-a1533c10e80b#.p6jou9a6l) 
 
