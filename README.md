@@ -2,6 +2,8 @@
 
 相关： 
 
+Surge Shadowsocks Module: https://git.io/SSEncrypt.module
+
 [Surge 官网](https://nssurge.com/)
 
 ~~[Surge 旧公告板](https://trello.com/b/qy4sDvxg/surge)~~
