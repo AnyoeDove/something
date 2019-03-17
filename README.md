@@ -2,13 +2,19 @@
 
 相关： 
 
+Surge Shadowsocks Module: https://git.io/SSEncrypt.module
+
 [Surge 官网](https://nssurge.com/)
 
-[Surge 公告板](https://trello.com/b/qy4sDvxg/surge)
+~~[Surge 旧公告板](https://trello.com/b/qy4sDvxg/surge)~~
 
-[surge 新手指南](https://medium.com/@scomper/surge-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6-a1533c10e80b#.p6jou9a6l) 
+[Surge 新公告板](https://nssurge.zendesk.com/)
 
-[surge 原理与实现](https://medium.com/@Blankwonder/surge-%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E7%8E%B0-8aa3304fb3bb#.ujkp7yp7z)
+[Surge 记事](https://medium.com/@Blankwonder/6010f1910111)
+
+[surge 新手指南](https://medium.com/@scomper/a1533c10e80b) 
+
+[surge 原理与实现](https://medium.com/@Blankwonder/8aa3304fb3bb)
 
 [Surge 使用手册(英文)](https://manual.nssurge.com/)
 
